@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\bin\Debug\netcoreapp3.1\PruebaListas.exe
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\bin\Debug\netcoreapp3.1\PruebaListas.deps.json
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\bin\Debug\netcoreapp3.1\PruebaListas.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\bin\Debug\netcoreapp3.1\PruebaListas.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\bin\Debug\netcoreapp3.1\PruebaListas.dll
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\bin\Debug\netcoreapp3.1\PruebaListas.pdb
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\obj\Debug\netcoreapp3.1\PruebaListas.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\obj\Debug\netcoreapp3.1\PruebaListas.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\obj\Debug\netcoreapp3.1\PruebaListas.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\obj\Debug\netcoreapp3.1\PruebaListas.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\obj\Debug\netcoreapp3.1\PruebaListas.dll
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\obj\Debug\netcoreapp3.1\PruebaListas.pdb
+C:\Users\ReyDanielS\source\repos\PruebaListas\PruebaListas\obj\Debug\netcoreapp3.1\PruebaListas.genruntimeconfig.cache

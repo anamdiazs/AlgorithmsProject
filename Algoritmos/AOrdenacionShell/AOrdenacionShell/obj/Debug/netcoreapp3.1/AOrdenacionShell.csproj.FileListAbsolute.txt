@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\bin\Debug\netcoreapp3.1\AOrdenacionShell.exe
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\bin\Debug\netcoreapp3.1\AOrdenacionShell.deps.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\bin\Debug\netcoreapp3.1\AOrdenacionShell.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\bin\Debug\netcoreapp3.1\AOrdenacionShell.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\bin\Debug\netcoreapp3.1\AOrdenacionShell.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\bin\Debug\netcoreapp3.1\AOrdenacionShell.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\obj\Debug\netcoreapp3.1\AOrdenacionShell.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\obj\Debug\netcoreapp3.1\AOrdenacionShell.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\obj\Debug\netcoreapp3.1\AOrdenacionShell.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\obj\Debug\netcoreapp3.1\AOrdenacionShell.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\obj\Debug\netcoreapp3.1\AOrdenacionShell.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\obj\Debug\netcoreapp3.1\AOrdenacionShell.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionShell\AOrdenacionShell\obj\Debug\netcoreapp3.1\AOrdenacionShell.genruntimeconfig.cache

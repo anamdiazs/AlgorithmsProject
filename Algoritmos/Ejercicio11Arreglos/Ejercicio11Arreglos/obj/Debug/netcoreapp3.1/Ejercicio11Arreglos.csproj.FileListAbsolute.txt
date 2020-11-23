@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\obj\Debug\netcoreapp3.1\Ejercicio11Arreglos.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\obj\Debug\netcoreapp3.1\Ejercicio11Arreglos.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\obj\Debug\netcoreapp3.1\Ejercicio11Arreglos.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\obj\Debug\netcoreapp3.1\Ejercicio11Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\bin\Debug\netcoreapp3.1\Ejercicio11Arreglos.exe
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\bin\Debug\netcoreapp3.1\Ejercicio11Arreglos.deps.json
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\bin\Debug\netcoreapp3.1\Ejercicio11Arreglos.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\bin\Debug\netcoreapp3.1\Ejercicio11Arreglos.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\bin\Debug\netcoreapp3.1\Ejercicio11Arreglos.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\bin\Debug\netcoreapp3.1\Ejercicio11Arreglos.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\obj\Debug\netcoreapp3.1\Ejercicio11Arreglos.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\obj\Debug\netcoreapp3.1\Ejercicio11Arreglos.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio11Arreglos\Ejercicio11Arreglos\obj\Debug\netcoreapp3.1\Ejercicio11Arreglos.genruntimeconfig.cache

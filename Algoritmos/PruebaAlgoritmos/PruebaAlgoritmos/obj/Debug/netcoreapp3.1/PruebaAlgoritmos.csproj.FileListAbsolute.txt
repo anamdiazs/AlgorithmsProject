@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\bin\Debug\netcoreapp3.1\PruebaAlgoritmos.exe
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\bin\Debug\netcoreapp3.1\PruebaAlgoritmos.deps.json
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\bin\Debug\netcoreapp3.1\PruebaAlgoritmos.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\bin\Debug\netcoreapp3.1\PruebaAlgoritmos.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\bin\Debug\netcoreapp3.1\PruebaAlgoritmos.dll
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\bin\Debug\netcoreapp3.1\PruebaAlgoritmos.pdb
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\obj\Debug\netcoreapp3.1\PruebaAlgoritmos.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\obj\Debug\netcoreapp3.1\PruebaAlgoritmos.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\obj\Debug\netcoreapp3.1\PruebaAlgoritmos.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\obj\Debug\netcoreapp3.1\PruebaAlgoritmos.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\obj\Debug\netcoreapp3.1\PruebaAlgoritmos.dll
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\obj\Debug\netcoreapp3.1\PruebaAlgoritmos.pdb
+C:\Users\ReyDanielS\source\repos\PruebaAlgoritmos\PruebaAlgoritmos\obj\Debug\netcoreapp3.1\PruebaAlgoritmos.genruntimeconfig.cache

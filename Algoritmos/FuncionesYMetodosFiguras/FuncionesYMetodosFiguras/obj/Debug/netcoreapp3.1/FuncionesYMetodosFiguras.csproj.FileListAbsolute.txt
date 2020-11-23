@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\bin\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.exe
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\bin\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.deps.json
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\bin\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\bin\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\bin\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.dll
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\bin\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.pdb
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\obj\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\obj\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\obj\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\obj\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\obj\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.dll
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\obj\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.pdb
+C:\Users\ReyDanielS\source\repos\FuncionesYMetodosFiguras\FuncionesYMetodosFiguras\obj\Debug\netcoreapp3.1\FuncionesYMetodosFiguras.genruntimeconfig.cache

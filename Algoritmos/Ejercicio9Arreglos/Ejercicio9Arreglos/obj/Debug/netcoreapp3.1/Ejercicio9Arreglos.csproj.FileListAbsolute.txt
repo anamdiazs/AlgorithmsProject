@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\bin\Debug\netcoreapp3.1\Ejercicio9Arreglos.exe
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\bin\Debug\netcoreapp3.1\Ejercicio9Arreglos.deps.json
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\bin\Debug\netcoreapp3.1\Ejercicio9Arreglos.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\bin\Debug\netcoreapp3.1\Ejercicio9Arreglos.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\bin\Debug\netcoreapp3.1\Ejercicio9Arreglos.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\bin\Debug\netcoreapp3.1\Ejercicio9Arreglos.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\obj\Debug\netcoreapp3.1\Ejercicio9Arreglos.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\obj\Debug\netcoreapp3.1\Ejercicio9Arreglos.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\obj\Debug\netcoreapp3.1\Ejercicio9Arreglos.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\obj\Debug\netcoreapp3.1\Ejercicio9Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\obj\Debug\netcoreapp3.1\Ejercicio9Arreglos.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\obj\Debug\netcoreapp3.1\Ejercicio9Arreglos.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio9Arreglos\Ejercicio9Arreglos\obj\Debug\netcoreapp3.1\Ejercicio9Arreglos.genruntimeconfig.cache

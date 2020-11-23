@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.exe
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.deps.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado\AOrdenacionBurbujaMejorado\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado.genruntimeconfig.cache

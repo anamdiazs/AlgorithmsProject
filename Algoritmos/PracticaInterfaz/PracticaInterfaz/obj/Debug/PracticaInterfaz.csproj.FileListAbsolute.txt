@@ -1,0 +1,11 @@
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\bin\Debug\PracticaInterfaz.exe.config
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\bin\Debug\PracticaInterfaz.exe
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\bin\Debug\PracticaInterfaz.pdb
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\obj\Debug\PracticaInterfaz.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\obj\Debug\PracticaInterfaz.Form1.resources
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\obj\Debug\PracticaInterfaz.Properties.Resources.resources
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\obj\Debug\PracticaInterfaz.csproj.GenerateResource.cache
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\obj\Debug\PracticaInterfaz.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\obj\Debug\PracticaInterfaz.exe
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\obj\Debug\PracticaInterfaz.pdb
+C:\Users\ReyDanielS\source\repos\PracticaInterfaz\PracticaInterfaz\obj\Debug\PracticaInterfaz.Form2.resources

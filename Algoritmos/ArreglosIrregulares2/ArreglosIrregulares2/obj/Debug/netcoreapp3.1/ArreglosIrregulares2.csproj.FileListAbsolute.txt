@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\bin\Debug\netcoreapp3.1\ArreglosIrregulares2.exe
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\bin\Debug\netcoreapp3.1\ArreglosIrregulares2.deps.json
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\bin\Debug\netcoreapp3.1\ArreglosIrregulares2.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\bin\Debug\netcoreapp3.1\ArreglosIrregulares2.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\bin\Debug\netcoreapp3.1\ArreglosIrregulares2.dll
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\bin\Debug\netcoreapp3.1\ArreglosIrregulares2.pdb
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\obj\Debug\netcoreapp3.1\ArreglosIrregulares2.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\obj\Debug\netcoreapp3.1\ArreglosIrregulares2.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\obj\Debug\netcoreapp3.1\ArreglosIrregulares2.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\obj\Debug\netcoreapp3.1\ArreglosIrregulares2.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\obj\Debug\netcoreapp3.1\ArreglosIrregulares2.dll
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\obj\Debug\netcoreapp3.1\ArreglosIrregulares2.pdb
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares2\ArreglosIrregulares2\obj\Debug\netcoreapp3.1\ArreglosIrregulares2.genruntimeconfig.cache

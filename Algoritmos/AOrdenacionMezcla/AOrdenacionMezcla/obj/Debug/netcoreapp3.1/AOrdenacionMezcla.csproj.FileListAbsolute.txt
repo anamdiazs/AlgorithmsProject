@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\bin\Debug\netcoreapp3.1\AOrdenacionMezcla.exe
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\bin\Debug\netcoreapp3.1\AOrdenacionMezcla.deps.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\bin\Debug\netcoreapp3.1\AOrdenacionMezcla.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\bin\Debug\netcoreapp3.1\AOrdenacionMezcla.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\bin\Debug\netcoreapp3.1\AOrdenacionMezcla.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\bin\Debug\netcoreapp3.1\AOrdenacionMezcla.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\obj\Debug\netcoreapp3.1\AOrdenacionMezcla.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\obj\Debug\netcoreapp3.1\AOrdenacionMezcla.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\obj\Debug\netcoreapp3.1\AOrdenacionMezcla.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\obj\Debug\netcoreapp3.1\AOrdenacionMezcla.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\obj\Debug\netcoreapp3.1\AOrdenacionMezcla.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\obj\Debug\netcoreapp3.1\AOrdenacionMezcla.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionMezcla\AOrdenacionMezcla\obj\Debug\netcoreapp3.1\AOrdenacionMezcla.genruntimeconfig.cache

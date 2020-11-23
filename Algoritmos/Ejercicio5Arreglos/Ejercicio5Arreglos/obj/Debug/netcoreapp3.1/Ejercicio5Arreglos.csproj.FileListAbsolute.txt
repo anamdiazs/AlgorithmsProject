@@ -1,0 +1,12 @@
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\obj\Debug\netcoreapp3.1\Ejercicio5Arreglos.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\obj\Debug\netcoreapp3.1\Ejercicio5Arreglos.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\obj\Debug\netcoreapp3.1\Ejercicio5Arreglos.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\bin\Debug\netcoreapp3.1\Ejercicio5Arreglos.exe
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\bin\Debug\netcoreapp3.1\Ejercicio5Arreglos.deps.json
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\bin\Debug\netcoreapp3.1\Ejercicio5Arreglos.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\bin\Debug\netcoreapp3.1\Ejercicio5Arreglos.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\bin\Debug\netcoreapp3.1\Ejercicio5Arreglos.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\bin\Debug\netcoreapp3.1\Ejercicio5Arreglos.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\obj\Debug\netcoreapp3.1\Ejercicio5Arreglos.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\obj\Debug\netcoreapp3.1\Ejercicio5Arreglos.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio5Arreglos\Ejercicio5Arreglos\obj\Debug\netcoreapp3.1\Ejercicio5Arreglos.genruntimeconfig.cache

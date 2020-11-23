@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\bin\Debug\netcoreapp3.1\AOrdenacionMonticulos.exe
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\bin\Debug\netcoreapp3.1\AOrdenacionMonticulos.deps.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\bin\Debug\netcoreapp3.1\AOrdenacionMonticulos.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\bin\Debug\netcoreapp3.1\AOrdenacionMonticulos.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\bin\Debug\netcoreapp3.1\AOrdenacionMonticulos.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\bin\Debug\netcoreapp3.1\AOrdenacionMonticulos.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\obj\Debug\netcoreapp3.1\AOrdenacionMonticulos.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\obj\Debug\netcoreapp3.1\AOrdenacionMonticulos.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\obj\Debug\netcoreapp3.1\AOrdenacionMonticulos.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\obj\Debug\netcoreapp3.1\AOrdenacionMonticulos.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\obj\Debug\netcoreapp3.1\AOrdenacionMonticulos.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\obj\Debug\netcoreapp3.1\AOrdenacionMonticulos.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionMonticulos\AOrdenacionMonticulos\obj\Debug\netcoreapp3.1\AOrdenacionMonticulos.genruntimeconfig.cache

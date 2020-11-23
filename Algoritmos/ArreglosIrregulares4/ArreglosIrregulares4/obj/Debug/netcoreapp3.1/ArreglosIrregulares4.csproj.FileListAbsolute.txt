@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\bin\Debug\netcoreapp3.1\ArreglosIrregulares4.exe
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\bin\Debug\netcoreapp3.1\ArreglosIrregulares4.deps.json
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\bin\Debug\netcoreapp3.1\ArreglosIrregulares4.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\bin\Debug\netcoreapp3.1\ArreglosIrregulares4.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\bin\Debug\netcoreapp3.1\ArreglosIrregulares4.dll
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\bin\Debug\netcoreapp3.1\ArreglosIrregulares4.pdb
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\obj\Debug\netcoreapp3.1\ArreglosIrregulares4.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\obj\Debug\netcoreapp3.1\ArreglosIrregulares4.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\obj\Debug\netcoreapp3.1\ArreglosIrregulares4.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\obj\Debug\netcoreapp3.1\ArreglosIrregulares4.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\obj\Debug\netcoreapp3.1\ArreglosIrregulares4.dll
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\obj\Debug\netcoreapp3.1\ArreglosIrregulares4.pdb
+C:\Users\ReyDanielS\source\repos\ArreglosIrregulares4\ArreglosIrregulares4\obj\Debug\netcoreapp3.1\ArreglosIrregulares4.genruntimeconfig.cache

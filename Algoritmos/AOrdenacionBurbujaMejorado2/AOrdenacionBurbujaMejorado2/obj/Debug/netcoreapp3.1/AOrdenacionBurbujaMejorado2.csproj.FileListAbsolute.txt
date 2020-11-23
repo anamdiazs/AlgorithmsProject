@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.exe
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.deps.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\bin\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionBurbujaMejorado2\AOrdenacionBurbujaMejorado2\obj\Debug\netcoreapp3.1\AOrdenacionBurbujaMejorado2.genruntimeconfig.cache

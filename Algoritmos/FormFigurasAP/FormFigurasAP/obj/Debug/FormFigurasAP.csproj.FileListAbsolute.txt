@@ -1,0 +1,14 @@
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\bin\Debug\FormFigurasAP.exe.config
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\bin\Debug\FormFigurasAP.exe
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\bin\Debug\FormFigurasAP.pdb
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.Form1.resources
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.Properties.Resources.resources
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.csproj.GenerateResource.cache
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.exe
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.pdb
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.Circulo.resources
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.Cuadrado.resources
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.Rectangulo.resources
+C:\Users\ReyDanielS\source\repos\FormFigurasAP\FormFigurasAP\obj\Debug\FormFigurasAP.Triangulo.resources

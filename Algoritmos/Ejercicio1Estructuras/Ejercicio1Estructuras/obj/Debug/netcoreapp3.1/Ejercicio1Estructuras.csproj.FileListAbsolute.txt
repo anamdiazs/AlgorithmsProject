@@ -1,0 +1,12 @@
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\bin\Debug\netcoreapp3.1\Ejercicio1Estructuras.exe
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\bin\Debug\netcoreapp3.1\Ejercicio1Estructuras.deps.json
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\bin\Debug\netcoreapp3.1\Ejercicio1Estructuras.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\bin\Debug\netcoreapp3.1\Ejercicio1Estructuras.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\bin\Debug\netcoreapp3.1\Ejercicio1Estructuras.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\bin\Debug\netcoreapp3.1\Ejercicio1Estructuras.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\obj\Debug\netcoreapp3.1\Ejercicio1Estructuras.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\obj\Debug\netcoreapp3.1\Ejercicio1Estructuras.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\obj\Debug\netcoreapp3.1\Ejercicio1Estructuras.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\obj\Debug\netcoreapp3.1\Ejercicio1Estructuras.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\obj\Debug\netcoreapp3.1\Ejercicio1Estructuras.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio1Estructuras\Ejercicio1Estructuras\obj\Debug\netcoreapp3.1\Ejercicio1Estructuras.genruntimeconfig.cache

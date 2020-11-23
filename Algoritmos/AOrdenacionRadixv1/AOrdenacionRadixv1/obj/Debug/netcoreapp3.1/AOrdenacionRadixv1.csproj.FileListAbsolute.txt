@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\bin\Debug\netcoreapp3.1\AOrdenacionRadixv1.exe
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\bin\Debug\netcoreapp3.1\AOrdenacionRadixv1.deps.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\bin\Debug\netcoreapp3.1\AOrdenacionRadixv1.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\bin\Debug\netcoreapp3.1\AOrdenacionRadixv1.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\bin\Debug\netcoreapp3.1\AOrdenacionRadixv1.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\bin\Debug\netcoreapp3.1\AOrdenacionRadixv1.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\obj\Debug\netcoreapp3.1\AOrdenacionRadixv1.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\obj\Debug\netcoreapp3.1\AOrdenacionRadixv1.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\obj\Debug\netcoreapp3.1\AOrdenacionRadixv1.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\obj\Debug\netcoreapp3.1\AOrdenacionRadixv1.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\obj\Debug\netcoreapp3.1\AOrdenacionRadixv1.dll
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\obj\Debug\netcoreapp3.1\AOrdenacionRadixv1.pdb
+C:\Users\ReyDanielS\source\repos\AOrdenacionRadixv1\AOrdenacionRadixv1\obj\Debug\netcoreapp3.1\AOrdenacionRadixv1.genruntimeconfig.cache

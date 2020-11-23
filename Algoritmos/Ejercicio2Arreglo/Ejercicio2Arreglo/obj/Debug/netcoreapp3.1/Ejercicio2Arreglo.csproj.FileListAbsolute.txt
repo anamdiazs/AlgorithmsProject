@@ -1,0 +1,13 @@
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\bin\Debug\netcoreapp3.1\Ejercicio2Arreglo.exe
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\bin\Debug\netcoreapp3.1\Ejercicio2Arreglo.deps.json
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\bin\Debug\netcoreapp3.1\Ejercicio2Arreglo.runtimeconfig.json
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\bin\Debug\netcoreapp3.1\Ejercicio2Arreglo.runtimeconfig.dev.json
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\bin\Debug\netcoreapp3.1\Ejercicio2Arreglo.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\bin\Debug\netcoreapp3.1\Ejercicio2Arreglo.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\obj\Debug\netcoreapp3.1\Ejercicio2Arreglo.csprojAssemblyReference.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\obj\Debug\netcoreapp3.1\Ejercicio2Arreglo.AssemblyInfoInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\obj\Debug\netcoreapp3.1\Ejercicio2Arreglo.AssemblyInfo.cs
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\obj\Debug\netcoreapp3.1\Ejercicio2Arreglo.csproj.CoreCompileInputs.cache
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\obj\Debug\netcoreapp3.1\Ejercicio2Arreglo.dll
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\obj\Debug\netcoreapp3.1\Ejercicio2Arreglo.pdb
+C:\Users\ReyDanielS\source\repos\Ejercicio2Arreglo\Ejercicio2Arreglo\obj\Debug\netcoreapp3.1\Ejercicio2Arreglo.genruntimeconfig.cache
