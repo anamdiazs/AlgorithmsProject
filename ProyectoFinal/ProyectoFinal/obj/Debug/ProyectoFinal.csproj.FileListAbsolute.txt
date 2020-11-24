@@ -1,0 +1,15 @@
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form2.resources
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form3.resources
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form4.resources
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form5.resources
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form6.resources
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
