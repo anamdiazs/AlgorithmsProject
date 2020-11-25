@@ -156,7 +156,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Name = "Form9";
-            this.Text = "Form9";
+            this.Text = "Rectangulo";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

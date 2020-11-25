@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ReyDanielS\\.nuget\\packages\\": {}
+    "C:\\Users\\Vaquero\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ReyDanielS\\source\\repos\\ABusquedaBinaria\\ABusquedaBinaria\\ABusquedaBinaria.csproj",
+      "projectUniqueName": "C:\\Users\\Vaquero\\OneDrive\\Documentos\\GitHub\\AlgorithmsProject\\Algoritmos\\ABusquedaBinaria\\ABusquedaBinaria\\ABusquedaBinaria.csproj",
       "projectName": "ABusquedaBinaria",
-      "projectPath": "C:\\Users\\ReyDanielS\\source\\repos\\ABusquedaBinaria\\ABusquedaBinaria\\ABusquedaBinaria.csproj",
-      "packagesPath": "C:\\Users\\ReyDanielS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ReyDanielS\\source\\repos\\ABusquedaBinaria\\ABusquedaBinaria\\obj\\",
+      "projectPath": "C:\\Users\\Vaquero\\OneDrive\\Documentos\\GitHub\\AlgorithmsProject\\Algoritmos\\ABusquedaBinaria\\ABusquedaBinaria\\ABusquedaBinaria.csproj",
+      "packagesPath": "C:\\Users\\Vaquero\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Vaquero\\OneDrive\\Documentos\\GitHub\\AlgorithmsProject\\Algoritmos\\ABusquedaBinaria\\ABusquedaBinaria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ReyDanielS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Vaquero\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

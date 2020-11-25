@@ -21,13 +21,29 @@ namespace ProyectoFinal
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            mbase = Convert.ToInt32(textBox1.Text);
+            try
+            {
+                mbase = Convert.ToInt32(textBox1.Text);
+            }
+            catch
+            {
+                MessageBox.Show("Ingresa un número");
+
+            }
 
         }
 
         private void textBox2_TextChanged(object sender, EventArgs e)
         {
-            altura = Convert.ToInt32(textBox2.Text);
+            try
+            {
+                altura = Convert.ToInt32(textBox2.Text);
+            }
+            catch
+            {
+                MessageBox.Show("Ingresa un número");
+
+            }
 
         }
 

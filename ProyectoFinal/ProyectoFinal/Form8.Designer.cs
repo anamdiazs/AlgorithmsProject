@@ -134,7 +134,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Name = "Form8";
-            this.Text = "Form8";
+            this.Text = "Circulo";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

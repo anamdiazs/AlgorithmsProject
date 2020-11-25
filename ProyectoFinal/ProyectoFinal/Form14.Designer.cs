@@ -47,9 +47,10 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(86, 72);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(85, 13);
+            this.label3.Size = new System.Drawing.Size(104, 13);
             this.label3.TabIndex = 39;
-            this.label3.Text = "Medida la altura:";
+            this.label3.Text = "Medida de apotema:";
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // textBox2
             // 
@@ -57,10 +58,12 @@
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(100, 20);
             this.textBox2.TabIndex = 38;
+            this.textBox2.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
             // 
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.BackgroundImage")));
+            this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
             this.pictureBox1.InitialImage = ((System.Drawing.Image)(resources.GetObject("pictureBox1.InitialImage")));
             this.pictureBox1.Location = new System.Drawing.Point(80, 142);
             this.pictureBox1.Name = "pictureBox1";
@@ -73,9 +76,10 @@
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(86, 46);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(82, 13);
+            this.label1.Size = new System.Drawing.Size(98, 13);
             this.label1.TabIndex = 36;
-            this.label1.Text = "Medida la base:";
+            this.label1.Text = "Medida de un lado:";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // button4
             // 
@@ -86,6 +90,7 @@
             this.button4.TabIndex = 35;
             this.button4.Text = "Regresar";
             this.button4.UseVisualStyleBackColor = false;
+            this.button4.Click += new System.EventHandler(this.button4_Click);
             // 
             // button3
             // 
@@ -96,6 +101,7 @@
             this.button3.TabIndex = 34;
             this.button3.Text = "Perimetro";
             this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
             // button2
             // 
@@ -106,6 +112,7 @@
             this.button2.TabIndex = 33;
             this.button2.Text = "Salir";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
             // 
             // button1
             // 
@@ -116,6 +123,7 @@
             this.button1.TabIndex = 32;
             this.button1.Text = "Area";
             this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // textBox1
             // 
@@ -123,6 +131,7 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 31;
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label2
             // 
@@ -150,7 +159,7 @@
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.label2);
             this.Name = "Form14";
-            this.Text = "Form14";
+            this.Text = "Pentagono";
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

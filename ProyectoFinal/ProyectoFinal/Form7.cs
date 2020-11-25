@@ -21,7 +21,15 @@ namespace ProyectoFinal
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            lado = Convert.ToInt32(textBox1.Text);
+            try
+            {
+                lado = Convert.ToInt32(textBox1.Text);
+            }
+            catch
+            {
+                MessageBox.Show("Ingresa un número");
+
+            }
         }
 
         private void button1_Click(object sender, EventArgs e)
