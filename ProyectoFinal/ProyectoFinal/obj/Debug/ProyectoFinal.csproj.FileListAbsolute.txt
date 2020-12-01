@@ -22,6 +22,7 @@ C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\Proy
 C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form13.resources
 C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form14.resources
 C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form15.resources
+<<<<<<< Updated upstream
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
@@ -46,3 +47,29 @@ C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFina
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+=======
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form10.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form11.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form12.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form13.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form14.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form15.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form2.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form3.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form4.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form5.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form6.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form7.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form8.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form9.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+>>>>>>> Stashed changes
