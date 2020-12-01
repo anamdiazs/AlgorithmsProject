@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ReyDanielS\\source\\repos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\Ejercicio3Arreglos.csproj": {}
+    "C:\\Users\\Brandon Martínez\\source\\repos\\anamdiazs\\AlgorithmsProject\\Algoritmos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\Ejercicio3Arreglos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ReyDanielS\\source\\repos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\Ejercicio3Arreglos.csproj": {
+    "C:\\Users\\Brandon Martínez\\source\\repos\\anamdiazs\\AlgorithmsProject\\Algoritmos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\Ejercicio3Arreglos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ReyDanielS\\source\\repos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\Ejercicio3Arreglos.csproj",
+        "projectUniqueName": "C:\\Users\\Brandon Martínez\\source\\repos\\anamdiazs\\AlgorithmsProject\\Algoritmos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\Ejercicio3Arreglos.csproj",
         "projectName": "Ejercicio3Arreglos",
-        "projectPath": "C:\\Users\\ReyDanielS\\source\\repos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\Ejercicio3Arreglos.csproj",
-        "packagesPath": "C:\\Users\\ReyDanielS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ReyDanielS\\source\\repos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\obj\\",
+        "projectPath": "C:\\Users\\Brandon Martínez\\source\\repos\\anamdiazs\\AlgorithmsProject\\Algoritmos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\Ejercicio3Arreglos.csproj",
+        "packagesPath": "C:\\Users\\Brandon Martínez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brandon Martínez\\source\\repos\\anamdiazs\\AlgorithmsProject\\Algoritmos\\Ejercicio3Arreglos\\Ejercicio3Arreglos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ReyDanielS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Brandon Martínez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +26,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +38,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

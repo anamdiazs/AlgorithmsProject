@@ -22,3 +22,27 @@ C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\Proy
 C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form13.resources
 C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form14.resources
 C:\Users\Vaquero\OneDrive\Documentos\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form15.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form1.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form10.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form11.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form12.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form13.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form14.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form15.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form2.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form3.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form4.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form5.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form6.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form7.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form8.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Form9.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Properties.Resources.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb

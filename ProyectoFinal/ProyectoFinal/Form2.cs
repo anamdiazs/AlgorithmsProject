@@ -21,5 +21,12 @@ namespace ProyectoFinal
         {
 
         }
-    }
+
+		private void button7_Click(object sender, EventArgs e)
+		{
+            Form1 inicial = new Form1();
+            inicial.Show();
+            this.Hide();
+        }
+	}
 }

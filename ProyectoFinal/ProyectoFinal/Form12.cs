@@ -124,5 +124,10 @@ namespace ProyectoFinal
                 MessageBox.Show("El perimetro del triangulo es: " + perimetro.ToString());
             }
         }
-    }
+
+		private void Form12_Load(object sender, EventArgs e)
+		{
+
+		}
+	}
 }
