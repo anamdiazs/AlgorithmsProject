@@ -19,7 +19,7 @@ namespace ProyectoFinal
 
 		private void button7_Click(object sender, EventArgs e)
 		{
-			FormArre ey = new FormArre();
+			Form2 ey = new Form2();
 			ey.Show();
 			this.Hide();
 		}
