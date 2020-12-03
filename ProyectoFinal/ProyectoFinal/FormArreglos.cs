@@ -19,7 +19,7 @@ namespace ProyectoFinal
 
 		private void button7_Click(object sender, EventArgs e)
 		{
-			Form2 ey = new Form2();
+			FormArre ey = new FormArre();
 			ey.Show();
 			this.Hide();
 		}
@@ -72,6 +72,11 @@ namespace ProyectoFinal
 		}
 
 		private void button6_Click(object sender, EventArgs e)
+		{
+
+		}
+
+		private void FormArreglos_Load(object sender, EventArgs e)
 		{
 
 		}

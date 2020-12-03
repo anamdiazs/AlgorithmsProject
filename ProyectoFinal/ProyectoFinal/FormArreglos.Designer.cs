@@ -265,6 +265,7 @@ namespace ProyectoFinal
 			this.Controls.Add(this.label1);
 			this.Name = "FormArreglos";
 			this.Text = "FormArreglos";
+			this.Load += new System.EventHandler(this.FormArreglos_Load);
 			this.ResumeLayout(false);
 			this.PerformLayout();
 
