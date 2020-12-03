@@ -130,6 +130,7 @@
     <Compile Include="Form9.Designer.cs">
       <DependentUpon>Form9.cs</DependentUpon>
     </Compile>
+<<<<<<< Updated upstream
     <Compile Include="FormArre.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -177,6 +178,13 @@
     </Compile>
     <Compile Include="FormArrEj6.Designer.cs">
       <DependentUpon>FormArrEj6.cs</DependentUpon>
+=======
+    <Compile Include="Listas1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Listas1.Designer.cs">
+      <DependentUpon>Listas1.cs</DependentUpon>
+>>>>>>> Stashed changes
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -222,6 +230,7 @@
     <EmbeddedResource Include="Form9.resx">
       <DependentUpon>Form9.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< Updated upstream
     <EmbeddedResource Include="FormArre.resx">
       <DependentUpon>FormArre.cs</DependentUpon>
     </EmbeddedResource>
@@ -245,6 +254,10 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormArrEj6.resx">
       <DependentUpon>FormArrEj6.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Listas1.resx">
+      <DependentUpon>Listas1.cs</DependentUpon>
+>>>>>>> Stashed changes
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
