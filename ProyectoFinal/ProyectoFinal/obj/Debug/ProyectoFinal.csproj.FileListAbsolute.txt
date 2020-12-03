@@ -81,3 +81,4 @@ C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFina
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArrEj5.resources
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArrEj6.resources
 C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArre.resources
+C:\Users\Brandon Martínez\Source\Repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Listas1.resources
