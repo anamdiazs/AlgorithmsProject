@@ -73,3 +73,11 @@ D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFi
 D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
 D:\alexc\Documents\anaprojects\GitHub\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
 >>>>>>> Stashed changes
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArreglos.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArrEj1.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArrEj2.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArrEj3.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArrEj4.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArrEj5.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArrEj6.resources
+C:\Users\Brandon Martínez\source\repos\anamdiazs\AlgorithmsProject\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FormArre.resources

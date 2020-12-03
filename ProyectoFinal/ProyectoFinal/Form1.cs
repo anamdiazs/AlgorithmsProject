@@ -36,7 +36,7 @@ namespace ProyectoFinal
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form2 arreglos = new Form2();
+            FormArre arreglos = new FormArre();
             arreglos.Show();
             this.Hide();
         }
