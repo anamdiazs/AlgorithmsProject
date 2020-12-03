@@ -178,6 +178,12 @@
     <Compile Include="FormArrEj6.Designer.cs">
       <DependentUpon>FormArrEj6.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormArrEj7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormArrEj7.Designer.cs">
+      <DependentUpon>FormArrEj7.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
